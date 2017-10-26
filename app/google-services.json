@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "402594564669",
+    "firebase_url": "https://uepa-2234.firebaseio.com",
+    "project_id": "uepa-2234",
+    "storage_bucket": "uepa-2234.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402594564669:android:661f2d71c5d48eee",
+        "android_client_info": {
+          "package_name": "com.uepapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402594564669-k18f2uhs2mabvk120hlg4vbna70uei02.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.uepapp",
+            "certificate_hash": "8317e5b945827969b3fefbad7bcbb5e53b88a7bc"
+          }
+        },
+        {
+          "client_id": "402594564669-e30v5t6or0i04n8cp3hf3lp3e33nkfpq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb-CMvGrVN3PPLmgzuMfjqx9zLbQG03MU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402594564669-e30v5t6or0i04n8cp3hf3lp3e33nkfpq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
